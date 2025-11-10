@@ -1,0 +1,4 @@
+query,top1_name,top1_score,good,latency_s
+Urban Pulse,Denim Revival Jacket,0.7840893864631653,True,0.2911981249926612
+Candle Night Dinner,Silk Slip Moonlight,0.7756414413452148,True,0.05998958298005164
+Cozy Winter,Puffer Cloud Parka,0.8511824607849121,True,0.03915025002788752
