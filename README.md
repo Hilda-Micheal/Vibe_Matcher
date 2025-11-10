@@ -1,4 +1,4 @@
-Vibe Matcher – AI at Nexora
+Vibe Matcher
 
 Vibe Matcher is an AI-powered fashion recommendation prototype built to understand vibes, not just words. Developed as part of Nexora’s initiative to explore emotional intelligence in AI, this project transforms natural language queries like “urban minimal chic” or “cozy winter streetwear” into meaningful product matches.
 
